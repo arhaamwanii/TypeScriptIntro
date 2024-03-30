@@ -1,0 +1,14 @@
+TYPESCRIPT IS A SUPER SET TO THE JAVASCRIPT
+
+    - it adds static typing to javascript
+    - js is orginally dyncaically typed
+    - const result = add(2, 5); 
+        - js automatically know the type here is numebr
+        - function does not know what to expect it just expect "oo i am going to recieve two inputs but it does not know what or what type those things are
+    
+    - we also need type script compiler
+    - type script does not run in the broweser
+        - type script will be converted js 
+        - this compiling will give us the errors we have in our code regarding the types 
+        - we get informed about the type errors at that time directly 
+        
